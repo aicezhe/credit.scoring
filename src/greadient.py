@@ -89,4 +89,3 @@ plt.savefig('results/pr_gradient.png', dpi=150, bbox_inches='tight')
 plt.show()
 
 
-plt.show()

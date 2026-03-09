@@ -97,4 +97,3 @@ plt.savefig('results/pr_logreg.png', dpi=150, bbox_inches='tight')
 plt.show()
 
 
-plt.show()
