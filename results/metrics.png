@@ -1,0 +1,10 @@
+plt.savefig('c:\Users\USER\Downloads\photo_2026-03-06_14-31-01-_2_.png', dpi=150, bbox_inches='tight')
+
+
+plt.savefig('c:\Users\USER\Downloads\photo_2026-03-06_14-31-01.png', dpi=150, bbox_inches='tight')
+
+
+plt.savefig('c:\Users\USER\Documents\резы1\image_2026-03-06_13-47-42.png', dpi=150, bbox_inches='tight')
+
+
+plt.savefig('c:\Users\USER\Documents\резы1\image_2026-03-06_13-48-29.png', dpi=150, bbox_inches='tight')
