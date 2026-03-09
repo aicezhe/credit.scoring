@@ -104,8 +104,8 @@ pip install -r requirements.txt
 
 3. Run the models:
 ```bash
-python logistic_regression.py
-python gradient_boosting.py
+python logreg.py
+python gradient.py
 ```
 
 ---
