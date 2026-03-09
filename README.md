@@ -89,7 +89,7 @@ credit-scoring/
 
 ---
 
-## ⚙️ How to Run
+##  How to Run
 
 1. Clone the repository:
 ```bash
@@ -110,7 +110,7 @@ python gradient_boosting.py
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - Python 3.x
 - scikit-learn
@@ -120,7 +120,7 @@ python gradient_boosting.py
 
 ---
 
-## 👤 Author
+##  Author
 
 **Zheleikina Anna**  
 [LinkedIn](https://www.linkedin.com/in/anna-zheleikina-136094291?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BejQQ0VslSbyNOjuq8ainzw%3D%3D) | [GitHub](https://github.com/aicezhe)
