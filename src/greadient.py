@@ -81,11 +81,13 @@ plt.grid(True, alpha=0.3)
 plt.savefig('results/roc_gradient.png', dpi=150, bbox_inches='tight')
 plt.show()
 
+
 plt.figure()
 PrecisionRecallDisplay.from_estimator(pipeline, X_test, y_test)
 plt.title("Precision-Recall - Gradient Boosting")
 plt.grid(True, alpha=0.3)
 plt.savefig('results/pr_gradient.png', dpi=150, bbox_inches='tight')
 plt.show()
+
 
 
